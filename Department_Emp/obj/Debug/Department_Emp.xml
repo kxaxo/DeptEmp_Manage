@@ -1,0 +1,356 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Department_Emp
+</name>
+</assembly>
+<members>
+<member name="T:Department_Emp.My.MyWebExtension">
+ <summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:Department_Emp.My.MyWebExtension.Computer">
+ <summary>
+ Returns information about the host computer.
+ </summary>
+</member>
+<member name="P:Department_Emp.My.MyWebExtension.User">
+ <summary>
+ Returns information for the current Web user.
+ </summary>
+</member>
+<member name="P:Department_Emp.My.MyWebExtension.Request">
+ <summary>
+ Returns Request object.
+ </summary>
+</member>
+<member name="P:Department_Emp.My.MyWebExtension.Response">
+ <summary>
+ Returns Response object.
+ </summary>
+</member>
+<member name="P:Department_Emp.My.MyWebExtension.Log">
+ <summary>
+ Returns the Asp log object.
+ </summary>
+</member>
+<member name="F:Department_Emp.Create_form._create_form">
+<summary>
+create_form control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Department_Emp.Create_form._txt_deptcode_create">
+<summary>
+txt_deptcode_create control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Department_Emp.Create_form._txt_deptname_create">
+<summary>
+txt_deptname_create control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Department_Emp.Create_form._txt_remarks_create">
+<summary>
+txt_remarks_create control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Department_Emp.Create_form._ddl_status_create">
+<summary>
+ddl_status_create control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Department_Emp.Create_form._button_create_department">
+<summary>
+button_create_department control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Department_Emp.Create_form._txt_empcode_create">
+<summary>
+txt_empcode_create control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Department_Emp.Create_form._txt_empdeptcode_create">
+<summary>
+txt_empdeptcode_create control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Department_Emp.Create_form._txt_firstname_create">
+<summary>
+txt_firstname_create control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Department_Emp.Create_form._txt_lastname_create">
+<summary>
+txt_lastname_create control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Department_Emp.Create_form._button_create_employee">
+<summary>
+button_create_employee control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Department_Emp.Create_form._grid_deptcodename">
+<summary>
+grid_deptcodename control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Department_Emp.Create_form._grid_all_deptemp">
+<summary>
+grid_all_deptemp control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Department_Emp.dept_form._dept_emp_form">
+<summary>
+dept_emp_form control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Department_Emp.dept_form._txt_deptcode">
+<summary>
+txt_deptcode control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Department_Emp.dept_form._txt_deptname">
+<summary>
+txt_deptname control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Department_Emp.dept_form._ddl_deptstatus">
+<summary>
+ddl_deptstatus control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Department_Emp.dept_form._button_search">
+<summary>
+button_search control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Department_Emp.dept_form._button_reset">
+<summary>
+button_reset control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Department_Emp.dept_form._txt_selected_deptcode">
+<summary>
+txt_selected_deptcode control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Department_Emp.dept_form._button_delete">
+<summary>
+button_delete control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Department_Emp.dept_form._button_clear">
+<summary>
+button_clear control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Department_Emp.dept_form._grid_department">
+<summary>
+grid_department control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Department_Emp.Edit_DeptEmp._edit_form">
+<summary>
+edit_form control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Department_Emp.Edit_DeptEmp._txt_deptcode_update">
+<summary>
+txt_deptcode_update control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Department_Emp.Edit_DeptEmp._txt_deptname_update">
+<summary>
+txt_deptname_update control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Department_Emp.Edit_DeptEmp._txt_remarks_update">
+<summary>
+txt_remarks_update control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Department_Emp.Edit_DeptEmp._ddl_status_update">
+<summary>
+ddl_status_update control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Department_Emp.Edit_DeptEmp._button_update_department">
+<summary>
+button_update_department control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Department_Emp.Edit_DeptEmp._txt_empcode_update">
+<summary>
+txt_empcode_update control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Department_Emp.Edit_DeptEmp._txt_firstname_update">
+<summary>
+txt_firstname_update control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Department_Emp.Edit_DeptEmp._txt_lastname_update">
+<summary>
+txt_lastname_update control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Department_Emp.Edit_DeptEmp._txt_deptcode_update2">
+<summary>
+txt_deptcode_update2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Department_Emp.Edit_DeptEmp._button_update_employee">
+<summary>
+button_update_employee control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Department_Emp.Edit_DeptEmp._grid_dept">
+<summary>
+grid_dept control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>

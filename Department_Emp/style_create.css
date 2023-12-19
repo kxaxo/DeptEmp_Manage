@@ -1,0 +1,101 @@
+﻿body {
+    width: 1600px;
+    margin: 0px;
+}
+
+header {
+    margin-top: 0px;
+    height: 80px;
+    background-color: #034BB5;
+    padding-left: 35px;
+    padding-top: 30px;
+}
+h1 {
+    color: white;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 45px;
+    margin: 0px;
+}
+
+h2 {
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 25px;
+    margin-bottom: 10px;
+}
+
+.create_form {
+    padding-left: 380px;
+    padding-top: 35px;
+}
+label {
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    margin-right: 10px;
+}
+#txt_deptcode_create, #txt_deptname_create, #txt_remarks_create, #txt_empcode_create, #txt_empdeptcode_create, #txt_firstname_create, #txt_lastname_create {
+    margin-right: 15px;
+    height: 30px;
+    border-radius: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+#txt_deptcode_create, #txt_empcode_create, #txt_empdeptcode_create {
+    background-color: #D9D9D9;
+    font-size: 15px;
+    font-weight: bold;
+}
+#ddl_status_create {
+    text-align: center;
+    width: 80px;
+    background-color: gray;
+    color: white;
+    font-size: medium;
+    margin-right: 25px;
+}
+hr {
+    margin-bottom: 30px;
+}
+
+#button_create_department, #button_create_employee {
+    width: 80px;
+    height: 30px;
+    margin-top: 15px;
+    margin-bottom: 30px;
+    background-color: green;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+}
+th {
+    height: 35px;
+    font-size: 20px;
+}
+
+td {
+    font-size: 17px;
+    font-weight: bold;
+    text-align: center;
+    height: 25px;
+}
+
+a.back_homepage2 {
+    margin-top: 15px;
+    margin-left: 20px;
+    background-color: white;
+    color: black;
+    border: 2px solid green;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a.back_homepage2:hover, a.back_homepage2:active {
+    background-color: green;
+    color: white;
+}

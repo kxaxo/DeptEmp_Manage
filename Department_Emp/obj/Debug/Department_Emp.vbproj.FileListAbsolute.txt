@@ -1,0 +1,11 @@
+D:\ASP.NET\Department_Emp\bin\Department_Emp.dll.config
+D:\ASP.NET\Department_Emp\bin\Department_Emp.dll
+D:\ASP.NET\Department_Emp\bin\Department_Emp.pdb
+D:\ASP.NET\Department_Emp\bin\Department_Emp.xml
+D:\ASP.NET\Department_Emp\obj\Debug\Department_Emp.vbproj.AssemblyReference.cache
+D:\ASP.NET\Department_Emp\obj\Debug\Department_Emp.Resources.resources
+D:\ASP.NET\Department_Emp\obj\Debug\Department_Emp.vbproj.GenerateResource.cache
+D:\ASP.NET\Department_Emp\obj\Debug\Department_Emp.vbproj.CoreCompileInputs.cache
+D:\ASP.NET\Department_Emp\obj\Debug\Department_Emp.dll
+D:\ASP.NET\Department_Emp\obj\Debug\Department_Emp.xml
+D:\ASP.NET\Department_Emp\obj\Debug\Department_Emp.pdb

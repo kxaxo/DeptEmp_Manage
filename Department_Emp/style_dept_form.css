@@ -1,0 +1,119 @@
+﻿body{
+    width: 1600px;
+    margin: 0px;
+}
+header {
+    margin-top: 0px;
+    height: 80px;
+    background-color: #034BB5;
+    padding-left: 35px;
+    padding-top: 30px;
+}
+h1 {
+    color: white;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 45px;
+    margin: 0px;
+}
+h2 {
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 25px;
+    margin-bottom: 10px;
+}
+.search_form{
+    padding-left: 380px;
+    padding-top: 20px;
+}
+label {
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    margin-right: 10px;
+}
+#txt_deptcode, #txt_deptname, #txt_empcode{
+    margin-right: 15px;
+    height: 30px;
+    border-radius: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+.lbl_status{
+    margin-left: 300px;
+}
+#ddl_deptstatus{
+    text-align: center;
+    width: 80px;
+    background-color: gray;
+    color: white;
+    font-size: medium;
+    margin-right: 25px;
+}
+#button_search{
+    height: 35px;
+    font-weight: bold;
+    font-size: 16px;
+    border-radius: 15px;
+}
+#button_reset {
+    height: 35px;
+    font-weight: bold;
+    font-size: 16px;
+    border-radius: 15px;
+}
+#txt_selected_deptcode {
+    margin-left: 85px;
+    margin-bottom: 0px;
+    margin-top: 15px;
+    text-align: center;
+    width: 100px;
+    background-color: #D9D9D9;
+    font-weight: bold;
+}
+#button_delete{
+    background-color: red;
+    color: white;
+    font-weight: bold;
+}
+#button_clear {
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    margin-left: 5px;
+}
+#button_create {
+    background-color: #04AA6D; /* Green */
+    border: none;
+    color: white;
+    padding: 6px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 1390px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+#grid_department{
+    margin-left: 50px;
+}
+th {
+    background-color: darkblue;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    height: 35px;
+}
+td{
+    height: 25px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+}
+.create_link{
+    color:white;
+}
